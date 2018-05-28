@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: SDS
+Build-Jdk: 9.0.4
+Implementation-Title: azure-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: azure-api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/azure-api
+Created-By: Maven Integration for Eclipse
+
